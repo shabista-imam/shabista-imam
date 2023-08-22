@@ -1,4 +1,4 @@
-![img2](https://github.com/shabista-imam/shabista-imam/assets/64741363/669b4b20-2648-4283-a603-1fefb128ad08)
+![programming-languages-2021-1](https://github.com/shabista-imam/shabista-imam/assets/64741363/436372b4-fed2-4c48-96cf-cba27213358c)
 
 
 ### Hi there 👋

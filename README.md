@@ -1,6 +1,7 @@
 
 ![image](https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de)
-![Web Development Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpropulsive.in%2Fweb-development.php&psig=AOvVaw1F03oL-gN_qWXc5FPyMi3X&ust=1692791352903000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiCxLWrmfCAAxVzm2MGHdz1DxIQr4kDegUIARC6AQ)
+
+![img](https://github.com/shabista-imam/shabista-imam/assets/64741363/fd558aad-a337-4021-9d8c-2babf159468b)
 
 
 

@@ -1,12 +1,13 @@
 
-![image](https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de)
+![img](https://github.com/shabista-imam/shabista-imam/assets/64741363/3230d473-208f-42c7-ae0f-c512bafb4fdb)
+
+### Hi there 👋
 
 ![img](https://github.com/shabista-imam/shabista-imam/assets/64741363/fd558aad-a337-4021-9d8c-2babf159468b)
 
 
 
 
-### Hi there 👋
 
 
 

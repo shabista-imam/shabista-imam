@@ -1,5 +1,5 @@
+![img2](https://github.com/shabista-imam/shabista-imam/assets/64741363/669b4b20-2648-4283-a603-1fefb128ad08)
 
-![img](https://github.com/shabista-imam/shabista-imam/assets/64741363/3230d473-208f-42c7-ae0f-c512bafb4fdb)
 
 ### Hi there 👋
 

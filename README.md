@@ -2,9 +2,9 @@
 ![image](https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="(https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png">
-  <source media="(prefers-color-scheme: light)" srcset="(https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="(https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png">
+  <source media="(prefers-color-scheme: dark)" srcset="([https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png](https://user-images.githubusercontent.com/64741363/262336972-50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png)">
+  <source media="(prefers-color-scheme: light)" srcset="([https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png](https://user-images.githubusercontent.com/64741363/262336972-50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png)">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="([https://github.com/shabista-imam/shabista-imam/assets/64741363/50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png](https://user-images.githubusercontent.com/64741363/262336972-50c6fec4-14ed-4d0e-a2fe-2e50271f41de.png)">
 </picture>
 
 
